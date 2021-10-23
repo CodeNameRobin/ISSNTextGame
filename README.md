@@ -1,2 +1,10 @@
 # ISSNTextGame
-Text based game with basic movement and pickup actions
+Text based game with basic movement and pickup actions created for my IT-140 class 2021
+
+
+Welcome to the International Starship Nova! Also known as the ISSN. You have been chosen for a maintenance shift as you were briefed on prior to launch. As your contract stated it will be a 2 week shift to help maintain various parts of the ship. You have been chosen based on your skill set and passenger number…
+
+It has been a week since you woke up on the ISSN, along with your fellow crewmates Dr. Suki Yomura and Leroy Hinks. It has been calm as you worked on the general maintenance of the ship, Dr. Yomura tended to your fellow shipmates currently in cryo, and Hinks tended to the provision hall, food production, as well as the embryos of future husbandry animals. Together with your current maintenance team as well as the past and future teams, you know you will all make it to Alfa Century. You have been doing some routine sensor maintenance in the command center when-
+BEEP--BEEP--BEEP--BEEP--BEEP
+The alarms sound and the lights flash. Panic sets in.
+Through the security camaras installed throughout the ship you are able to see a monstrous alien tearing apart the ship’s engines! You must hurry and get rid of it and fix the engines or the last of humanity will be lost! Before encountering it though you must be prepared. You already know that to fight this monster you will need the MEDKIT from the Med Bay, OXYGEN tanks from the Provision Hall, the ARMOR from the Barracks, and an ENERGY WEAPON off a security officer in the Cryo Docks. After taking care of that alien, you will have to fix the engines, or all will still be lost! You will need the maintenance TOOLKIT from the Equipment Room, and you remember looking over the ENGINE SCHMATICS at lunch in the Dinning Hall. You also want to check on LEROY in the Kitchen and Dr. Yomura, who took your KEYCARD to open the Docking Bay to check extra medical supplies. Your KEYCARD is the only way to open the Engine Room during an emergency so you must find her!
